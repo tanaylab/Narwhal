@@ -1,0 +1,8 @@
+.*.swo
+.*.swp
+.DS_Store
+TAGS
+junk*
+tags
+test
+tmp.*
